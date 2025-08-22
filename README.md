@@ -1,52 +1,37 @@
+# Hi there, I’m Somu Sartungi ([@somu-sartungi10](https://github.com/somu-sartungi10))  👋
 
-# Hi there 👋, I'm Somu!
+**Code, data, and a bit of curiosity.**
 
+---
 
+##  About Me
+-  College student based in Bhopal, specializing in [your field or major—e.g., Computer Science / Data Science].
+-  Passionate about building web apps and experimenting with interesting APIs.
+-  Constantly learning and exploring new technologies.
 
+---
 
-## About me
-### 🎨 A Creative Web Designer with an Eye for Detail
+##  Projects & Current Focus
+-  **Yugen-** — A simple anime web-browser using [Jikan REST API](https://jikan.moe/) (JavaScript).  
+-  Exploring projects in data analysis, web development, or [insert any other interests or upcoming ideas].
 
-I'm a passionate and creative web designer with a keen eye for design and attention to detail. With years of experience in the industry, I specialize in crafting beautiful and highly functional websites that engage audiences and reflect unique brand identities.
+---
 
-## Skills & Techs 💻
+##  GitHub Stats
+[![Somu’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=somu-sartungi10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+---
 
-![UI/UX](https://img.shields.io/badge/-UI/UX-FF6B6B?style=flat-square) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB)
+##  Contribution Graph – Snake Effect
+![snake gif](https://github.com/somu-sartungi10/somu-sartungi10/blob/output/github-contribution-grid-snake.svg)
 
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+---
 
-## 👨‍💼 Work Experience
+##  How to Reach Me
+-  Instagram: [@somu_sartungi](https://www.instagram.com/somu_sartungi)  
+-  Facebook: [somu.sartungimagar](https://www.facebook.com/somu.sartungimagar)  
 
-### Junior Web Designer at [King's IT & Tech] (2021 - present)
+---
 
-🌟 As a junior web designer at King's IT & Tech, I have had the opportunity to:
-
-- 💻 Assist senior designers in the development of website layouts and user interfaces.
-- 🎨 Contribute to website redesign projects for various clients.
-- 🌐 Gain experience in responsive design and front-end development.
-
-👨‍🎓 Through my work at King's IT & Tech, I have learned valuable skills and techniques that have helped me grow as a web designer.
-
-
-# Education & Bootcamp
-
-- 🎓 Completed High School from Kalika Manavgyan Higher Secondry School
-- 💻 Completed Web Design and Development Bootcamp from HUB.IT & Solution Nepal
-
-# What I'm up to 🔥
-
-- 📚 Learning new web design and development skills through online courses and tutorials
-- 💻 Working on personal web design projects, including a portfolio website and a blog
-- 🌱 Exploring new technologies and tools, such as React and Tailwind CSS
-- 🎨 Experimenting with different design styles and techniques
-- 🚀 Building a network of fellow web designers and developers for collaboration and support
-
-## Get in touch 
-
-![Contact](https://img.shields.io/badge/Contact-Me-blueviolet?style=for-the-badge&logo=telegram) [![Contact](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail)](mailto:somusartungi47@gmail.com) [![Contact](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/somu.sartungimagar/)
-
-[![Contact](https://img.shields.io/badge/Contact-Me-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/sartungimagar10/) [![Contact](https://img.shields.io/badge/Contact-Me-green?style=for-the-badge&logo=whatsapp)](https://wa.me/9817591073)
-
+##  Fun Fact
+I build, I break, I rebuild—learning is the real win.  
