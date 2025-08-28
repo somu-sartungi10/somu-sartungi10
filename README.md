@@ -13,11 +13,10 @@
 <p align="left">I love crafting applications that come alive on the web and designing systems that learn and adapt with intelligence.<br><br>Right now, I’m sharpening my skills in full-stack development while also exploring the endless possibilities of AI and Machine Learning</p>
 
 ###
----
-
-<br>
-
+<br/>
 <h2 align="left">👨‍💻 Familiar Tech Stack & Tools</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -71,35 +70,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
----
+###
 
-<br>
-
+<br/>
 <h2 align="left">🌱 What I’m Into</h2>
 
-<p align="left">
-🏗️ Designing and building scalable full-stack applications  
-<br><br>
-🔭 Exploring and developing AI & ML models  
-<br><br>
-🌍 Contributing to and learning from open-source communities  
-<br><br>
-🧩 Tackling challenging problems with logic, creativity, and coffee ☕
-</p>
+###
 
----
+<p align="left">🏗️ Designing and building scalable full-stack applications<br><br>🔭 Exploring and developing AI & ML models<br><br>🌍 Contributing to and learning from open-source communities<br><br>🧩 Tackling challenging problems with logic, creativity, and coffee ☕</p>
 
-<br>
+###
 
+<br/>
 <h2 align="left">📚 Life Beyond Tech</h2>
+
+###
 
 <p align="left">⚽ Football · 🎮 Gaming · 📚 Reading classics · 🎶 Music</p>
 
----
+###
 
-<br>
-
+<br/>
 <h2 align="left">🚀 Let’s Build & Connect</h2>
+
+###
 
 <div align="left">
   <a href="https://mail.google.com/mail/?view=cm&to=somusartungi47@gmail.com" target="_blank">
@@ -110,8 +104,4 @@
   </a>
 </div>
 
----
-
-<br>
-
-
+###
