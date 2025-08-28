@@ -1,6 +1,6 @@
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdhOXVsc2Q4czRpZHR2eHNvNnEwY2ZudmMwM3JwOWZibzVjazB3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
 
-###
+
 
 <h1 align="left">Hey There👋 ! I am Somu</h1>
 
