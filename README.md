@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdhOXVsc2Q4czRpZHR2eHNvNnEwY2ZudmMwM3JwOWZibzVjazB3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdhOXVsc2Q4czRpZHR2eHNvNnEwY2ZudmMwM3JwOWZibzVjazB3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
 
 ###
 
-<h4 align="left">💡 Curious mind | 💻 Full-Stack Explorer | 🤖 AI/ML Enthusiast</h4>
+<h4 align="left">💡 Fueled by curiosity | 💻 Full-Stack Explorer | 🤖 AI/ML Enthusiast</h4>
 
 ###
 
