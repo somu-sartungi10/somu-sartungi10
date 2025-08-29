@@ -86,7 +86,7 @@
 
 ###
 
-<p align="left">⚽ Football · 🎮 Gaming · 📚 Reading classics · 🎶 Music</p>
+<p align="left">⚽ Football · 🎮 Gaming · 📚 Reading  · 🎶 Music</p>
 
 ###
 
