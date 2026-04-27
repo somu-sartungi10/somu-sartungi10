@@ -74,7 +74,6 @@ My focus lies in combining <b>Data Analysis</b> and <b>Data Science</b> to trans
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 
   <img width="20"/>
 
