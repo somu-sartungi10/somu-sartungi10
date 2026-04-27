@@ -6,7 +6,7 @@
 
 ###
 
-<<h4 align="left">📊 Data Analysis | 📈 Data Science | 🤖 Machine Learning</h4>
+<h4 align="left">📊 Data Analysis | 📈 Data Science | 🤖 Machine Learning</h4>
 
 ###
 
