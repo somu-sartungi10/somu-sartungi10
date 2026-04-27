@@ -19,22 +19,77 @@ My focus lies in combining <b>Data Analysis</b> and <b>Data Science</b> to trans
 ###
 <br/>
 
-<h2 align="left">🧠 Core Skills & Technologies</h2>
+<h2 align="left">🧠 Familiar Skills & Technologies</h2>
 
 ###
 
 <div align="left">
+
+  <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+
+  <img width="20"/>
+
+  <!-- Data Science & Analysis -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-  <img width="12" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+
+  <img width="20"/>
+
+  <!-- Visualization -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="plotly logo"/>
+
+  <img width="20"/>
+
+  <!-- ML / Stats -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+
+  <img width="20"/>
+
+  <!-- Data Apps / Deployment -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" alt="streamlit logo"/>
+
+  <img width="20"/>
+
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+
+  <img width="20"/>
+
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+
+  <img width="20"/>
+
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+
+  <img width="20"/>
+
+  <!-- BI Tools -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
+
 </div>
 
 ###
