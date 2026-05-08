@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-I’m passionate about working with data — from exploring and analyzing it to uncover meaningful insights, 
-to building machine learning models that solve real-world problems.<br><br>
-My focus lies in combining <b>Data Analysis</b> and <b>Data Science</b> to transform raw data into actionable intelligence.
+I’m passionate about working with data — from exploring and analyzing it to uncover meaningful insights, to building machine learning models that solve real-world problems.
+
+My focus is on designing, training, and deploying machine learning models, along with processing and transforming raw data into intelligent, data-driven solutions.”
 </p>
 
 ###
